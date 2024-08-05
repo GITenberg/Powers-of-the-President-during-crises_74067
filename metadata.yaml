@@ -1,0 +1,44 @@
+_repo: Powers-of-the-President-during-crises_74067
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Smith, J. Malcolm (John Malcolm)
+    alias: Smith, John Malcolm
+    birthdate: 1921
+    deathdate: 2003
+    gutenberg_agent_id: '57331'
+    url: http://www.gutenberg.org/2009/agents/57331
+  - agent_name: Cotter, Cornelius P.
+    aliases:
+    - Cotter, Cornelius Philip
+    - Cotter, Cornelius Neil Philip
+    birthdate: 1924
+    deathdate: 1999
+    gutenberg_agent_id: '57332'
+    url: http://www.gutenberg.org/2009/agents/57332
+    wikipedia: https://en.wikipedia.org/wiki/Cornelius_P._Cotter
+description: ''
+gutenberg_issued: '2024-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74067'
+  lccn: '59014964'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b3635813
+pgterms:marc905: 20190907012749smith
+pgterms:marc906: '1960'
+pgterms:marc907: US
+production_note: Tim Lindell, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aWashington, DC :$bPublic Affairs Press, $c1960.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Constitutional history -- United States'
+- !lcsh 'Executive power -- United States'
+- !lcc 'JK'
+- GITenberg
+title: Powers of the President during crises
+url: http://www.gutenberg.org/ebooks/74067
