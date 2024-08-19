@@ -1,5 +1,8 @@
 _repo: Powers-of-the-President-during-crises_74067
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74067-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Smith, J. Malcolm (John Malcolm)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57332
     wikipedia: https://en.wikipedia.org/wiki/Cornelius_P._Cotter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74067#Powers-of-the-President-during-crises
 gutenberg_issued: '2024-07-18'
 gutenberg_type: Text
 identifiers:
